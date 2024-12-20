@@ -1,4 +1,3 @@
-## My Farm
 
 <img
   src="https://render.gitanimals.org/farms/chukmunnlee"
