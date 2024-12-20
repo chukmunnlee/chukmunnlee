@@ -1,12 +1,10 @@
 ## My Farm
 
-<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/chukmunnlee"
   width="600"
   height="300"
 />
-</a>
 
 <!--
 ## Hi there 👋
