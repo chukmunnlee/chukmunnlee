@@ -1,6 +1,6 @@
 
 <img
-  src="https://render.gitanimals.org/farms/chukmunnlee" style="max-width: 100%;"
+  src="https://render.gitanimals.org/farms/chukmunnlee" style="width: 100%;"
 />
 
 ## Hi there 👋
